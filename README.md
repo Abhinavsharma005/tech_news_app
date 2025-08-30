@@ -1,16 +1,15 @@
-# tech_news_app
+📰📲 tech_news_app
 
-A new Flutter project.
+Key Features:
 
-## Getting Started
+🔗 Integrated with NewsAPI
 
-This project is a starting point for a Flutter application.
+📱 Scrollable feed of the latest tech news from trusted sources
 
-A few resources to get you started if this is your first Flutter project:
+🔍 Search bar to instantly find specific topics or keywords
 
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
+👇 Interactive bottom sheet opens on tap with a short brief information and a link to read the full article
 
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+⚡ Smooth and responsive UI for a better reading experience
+
+Link for a video demo: https://www.linkedin.com/posts/abhinav-sharma-314319327_flutter-dart-newsapp-activity-7365595601838817280-0dmD?utm_source=share&utm_medium=member_desktop&rcm=ACoAAFJzY4ABokuOV1bS8C6y6y1n7ErKmfl6koU
